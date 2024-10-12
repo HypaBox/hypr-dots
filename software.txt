@@ -1,3 +1,3 @@
 hyprland (of course) and kitty, wofi, waybar, hyprpaper, dunst, pavucontrol, wlogout
-VERY IMPORTANT - xdg-desktop-portal, polkit agent (the kde one if possible), and qt5+6-wayland
+VERY IMPORTANT - xdg-desktop-portal, xdg-desktop-portal-hyprland, xdg-desktop-portal-gtk, polkit agent (the gnome one), and qt5+6-wayland
 
