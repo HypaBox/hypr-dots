@@ -8,6 +8,6 @@ Just my personal Hyprland dots.
 Needed software:
 
 - hyprland (of course) 
-- kitty, wofi, waybar, hyprpaper, dunst 
+- kitty, wofi, waybar, hyprpaper, dunst, otf-font-awesome
 - pavucontrol, wlogout, qt5+6-wayland, polkit agent
 - VERY IMPORTANT - xdg-desktop-portal (also the hyprland and gtk version)
